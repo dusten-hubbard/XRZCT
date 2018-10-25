@@ -5938,26 +5938,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax16_DDH" comment="DDH_traced_23july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
- points="1.04844 4.30412,
-	1.04844 4.28285,
-	1.06971 4.28285,
-	1.06971 4.26157,
-	1.09098 4.26157,
-	1.09098 4.28285,
-	1.11226 4.28285,
-	1.11226 4.30412,
-	1.09098 4.30412,
-	1.09098 4.32539,
-	1.06971 4.32539,
-	1.06971 4.30412,
-	"/>
-</Transform>
-
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
-<Contour name="ax35" comment="DDH_traced_23july2018" hidden="false" closed="true" simplified="true" border="0.501961 1 0.501961" fill="0.501961 1 0.501961" mode="11"
+<Contour name="ddh_d01ax16" comment="DDH_traced_23july2018" hidden="false" closed="true" simplified="true" border="0.501961 1 0.501961" fill="0.501961 1 0.501961" mode="11"
  points="0.731831 4.27099,
 	0.73778 4.25513,
 	0.739764 4.25116,
@@ -6058,6 +6039,139 @@
 	0.731831 4.28091,
 	0.731831 4.27298,
 	0.731831 4.27199,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax17_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="2.57639 2.82842,
+	2.57639 2.81226,
+	2.59255 2.81226,
+	2.59255 2.7961,
+	2.6087 2.7961,
+	2.6087 2.81226,
+	2.62486 2.81226,
+	2.62486 2.82842,
+	2.6087 2.82842,
+	2.6087 2.84458,
+	2.59255 2.84458,
+	2.59255 2.82842,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax18_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="3.74853 2.67287,
+	3.74853 2.66403,
+	3.75737 2.66403,
+	3.75737 2.65519,
+	3.76622 2.65519,
+	3.76622 2.66403,
+	3.77506 2.66403,
+	3.77506 2.67287,
+	3.76622 2.67287,
+	3.76622 2.68172,
+	3.75737 2.68172,
+	3.75737 2.67287,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax20_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="6.21323 3.29468,
+	6.21323 3.27455,
+	6.23336 3.27455,
+	6.23336 3.25442,
+	6.25349 3.25442,
+	6.25349 3.27455,
+	6.27362 3.27455,
+	6.27362 3.29468,
+	6.25349 3.29468,
+	6.25349 3.31482,
+	6.23336 3.31482,
+	6.23336 3.29468,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax21_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="2.35567 2.86814,
+	2.35567 2.84709,
+	2.37672 2.84709,
+	2.37672 2.82604,
+	2.39777 2.82604,
+	2.39777 2.84709,
+	2.41882 2.84709,
+	2.41882 2.86814,
+	2.39777 2.86814,
+	2.39777 2.88919,
+	2.37672 2.88919,
+	2.37672 2.86814,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax25_DDH" comment="DDH_traced_26july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="3.71217 5.04573,
+	3.71217 5.0232,
+	3.7347 5.0232,
+	3.7347 5.00067,
+	3.75723 5.00067,
+	3.75723 5.0232,
+	3.77977 5.0232,
+	3.77977 5.04573,
+	3.75723 5.04573,
+	3.75723 5.06826,
+	3.7347 5.06826,
+	3.7347 5.04573,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax48_DDH" comment="DDH_traced_24sep2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="7.80447 0.568004,
+	7.80447 0.549335,
+	7.82314 0.549335,
+	7.82314 0.530666,
+	7.84181 0.530666,
+	7.84181 0.549335,
+	7.86048 0.549335,
+	7.86048 0.568004,
+	7.84181 0.568004,
+	7.84181 0.586672,
+	7.82314 0.586672,
+	7.82314 0.568004,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax29_DDH" comment="DDH_traced_15oct2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="8.01306 4.15726,
+	8.01306 4.14155,
+	8.02876 4.14155,
+	8.02876 4.12585,
+	8.04447 4.12585,
+	8.04447 4.14155,
+	8.06017 4.14155,
+	8.06017 4.15726,
+	8.04447 4.15726,
+	8.04447 4.17296,
+	8.02876 4.17296,
+	8.02876 4.15726,
 	"/>
 </Transform>
 

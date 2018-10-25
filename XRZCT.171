@@ -6069,4 +6069,175 @@
 	"/>
 </Transform>
 
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax17_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="2.51439 3.4928,
+	2.51439 3.48235,
+	2.52483 3.48235,
+	2.52483 3.4719,
+	2.53528 3.4719,
+	2.53528 3.48235,
+	2.54573 3.48235,
+	2.54573 3.4928,
+	2.53528 3.4928,
+	2.53528 3.50324,
+	2.52483 3.50324,
+	2.52483 3.4928,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax18_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="2.73542 3.46862,
+	2.73542 3.45314,
+	2.7509 3.45314,
+	2.7509 3.43765,
+	2.76639 3.43765,
+	2.76639 3.45314,
+	2.78187 3.45314,
+	2.78187 3.46862,
+	2.76639 3.46862,
+	2.76639 3.4841,
+	2.7509 3.4841,
+	2.7509 3.46862,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax18_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="1.39601 4.43253,
+	1.39601 4.41704,
+	1.4115 4.41704,
+	1.4115 4.40156,
+	1.42698 4.40156,
+	1.42698 4.41704,
+	1.44247 4.41704,
+	1.44247 4.43253,
+	1.42698 4.43253,
+	1.42698 4.44801,
+	1.4115 4.44801,
+	1.4115 4.43253,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax20_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="5.783 1.65098,
+	5.783 1.63782,
+	5.79617 1.63782,
+	5.79617 1.62465,
+	5.80934 1.62465,
+	5.80934 1.63782,
+	5.82251 1.63782,
+	5.82251 1.65098,
+	5.80934 1.65098,
+	5.80934 1.66415,
+	5.79617 1.66415,
+	5.79617 1.65098,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax21_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="8.6812 0.33424,
+	8.6812 0.31319,
+	8.70225 0.31319,
+	8.70225 0.29214,
+	8.7233 0.29214,
+	8.7233 0.31319,
+	8.74435 0.31319,
+	8.74435 0.33424,
+	8.7233 0.33424,
+	8.7233 0.35529,
+	8.70225 0.35529,
+	8.70225 0.33424,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax25_DDH" comment="DDH_traced_26july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="8.35656 2.27568,
+	8.35656 2.25766,
+	8.37458 2.25766,
+	8.37458 2.23964,
+	8.3926 2.23964,
+	8.3926 2.25766,
+	8.41062 2.25766,
+	8.41062 2.27568,
+	8.3926 2.27568,
+	8.3926 2.2937,
+	8.37458 2.2937,
+	8.37458 2.27568,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax48_DDH" comment="DDH_traced_24sep2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="2.73523 4.31251,
+	2.73523 4.29963,
+	2.74812 4.29963,
+	2.74812 4.28675,
+	2.761 4.28675,
+	2.761 4.29963,
+	2.77388 4.29963,
+	2.77388 4.31251,
+	2.761 4.31251,
+	2.761 4.32539,
+	2.74812 4.32539,
+	2.74812 4.31251,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax28_DDH" comment="DDH_traced_12oct2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="4.89493 5.72733,
+	4.89493 5.71204,
+	4.91021 5.71204,
+	4.91021 5.69676,
+	4.92549 5.69676,
+	4.92549 5.71204,
+	4.94078 5.71204,
+	4.94078 5.72733,
+	4.92549 5.72733,
+	4.92549 5.74261,
+	4.91021 5.74261,
+	4.91021 5.72733,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax28_DDH" comment="DDH_traced_12oct2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="4.78412 6.83918,
+	4.78412 6.8239,
+	4.79941 6.8239,
+	4.79941 6.80861,
+	4.81469 6.80861,
+	4.81469 6.8239,
+	4.82997 6.8239,
+	4.82997 6.83918,
+	4.81469 6.83918,
+	4.81469 6.85446,
+	4.79941 6.85446,
+	4.79941 6.83918,
+	"/>
+</Transform>
+
 </Section>

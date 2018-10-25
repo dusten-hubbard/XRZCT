@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="119" viewport="2.56756 3.43181 0.00225534"
+<Series index="120" viewport="0.755831 0.846696 0.00432944"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,18 +29,18 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 0.000 0.000"
-	defaultFill="0.000 1.000 0.000"
-	defaultMode="9"
-	defaultName="d13c54ax32"
-	defaultComment=""
+	defaultBorder="0.000 1.000 0.000"
+	defaultFill="1.000 0.000 0.502"
+	defaultMode="-9"
+	defaultName="d01ax29_DDH"
+	defaultComment="DDH_traced_15oct2018"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
 	listDomainLength="true"
 	listDomainArea="false"
 	listDomainMidpoint="false"
-	listTraceComment="false"
+	listTraceComment="true"
 	listTraceLength="true"
 	listTraceArea="true"
 	listTraceCentroid="false"
@@ -49,10 +49,10 @@
 	listTraceThickness="true"
 	listObjectRange="true"
 	listObjectCount="true"
-	listObjectSurfarea="true"
-	listObjectFlatarea="true"
+	listObjectSurfarea="false"
+	listObjectFlatarea="false"
 	listObjectVolume="false"
-	listZTraceNote="false"
+	listZTraceNote="true"
 	listZTraceRange="true"
 	listZTraceLength="true"
 	borderColors="0.000 0.000 0.000,
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="d13c54ax32" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="a$+" closed="true" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="13"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -129,7 +129,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="Total X-sectioned length" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="b$+" closed="true" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="13"
  points="-2 1,
 	-5 0,
 	-2 -1,
@@ -147,12 +147,12 @@
 	-1 2,
 	-4 4,
 	"/>
-<Contour name="d01c03" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="pink$+" closed="true" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-13"
  points="-6 -6,
 	6 -6,
 	0 5,
 	"/>
-<Contour name="d01c04" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="X$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
  points="-7 7,
 	-2 0,
 	-7 -7,
@@ -166,7 +166,7 @@
 	0 1,
 	-4 7,
 	"/>
-<Contour name="d01c05" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="yellow$+" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
  points="8 8,
 	8 -8,
 	-8 -8,
@@ -178,13 +178,13 @@
 	-10 10,
 	-8 8,
 	"/>
-<Contour name="d08ax09ssvda" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+<Contour name="blue$+" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
  points="0 7,
 	-7 0,
 	0 -7,
 	7 0,
 	"/>
-<Contour name="d01c07" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="magenta$+" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -194,7 +194,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="Scale_Cube$" closed="true" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="9"
+<Contour name="red$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="6 -6,
 	0 -6,
 	0 -3,
@@ -208,7 +208,7 @@
 	-12 -6,
 	-3 -12,
 	"/>
-<Contour name="Help$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d01ax29_DDH" comment="DDH_traced_15oct2018" closed="true" border="0.000 1.000 0.000" fill="1.000 0.000 0.502" mode="-9"
  points="-12 4,
 	-12 -4,
 	-4 -4,
@@ -222,7 +222,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="Surface Pro  test" closed="true" border="1.000 1.000 0.000" fill="0.000 0.000 1.000" mode="11"
+<Contour name="cyan$+" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
  points="0 12,
 	4 8,
 	-12 -8,
@@ -231,7 +231,7 @@
 	12 0,
 	12 12,
 	"/>
-<Contour name="calibrated length y+" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.251" mode="-15"
+<Contour name="a$+" closed="true" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="13"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -241,17 +241,62 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="axon membrane length" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-3 1,
-	-3 -1,
-	-1 -3,
-	1 -3,
-	3 -1,
-	3 1,
-	1 3,
-	-1 3,
+<Contour name="b$+" closed="true" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="13"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
 	"/>
-<Contour name="d01cfa03" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="pink$+" closed="true" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="X$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="yellow$+" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="blue$+" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="magenta$+" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -261,95 +306,21 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="d01cfa04" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-6.77887 0.0108626,
-	-6.60256 -1.49834,
-	-6.08278 -2.92911,
-	-5.24656 -4.20706,
-	-4.13735 -5.26578,
-	-2.81281 -6.05025,
-	-1.34179 -6.51968,
-	0.199268 -6.64967,
-	1.73025 -6.43348,
-	3.17159 -5.88234,
-	4.44837 -5.02489,
-	5.49423 -3.9057,
-	6.25481 -2.58294,
-	6.69057 -1.12537,
-	6.77887 0.39126,
-	6.51512 1.88812,
-	5.91303 3.2874,
-	5.00388 4.51639,
-	3.83494 5.51119,
-	2.46697 6.22011,
-	0.971054 6.60629,
-	-0.575043 6.64967,
-	-2.09096 6.34799,
-	-3.49792 5.71693,
-	-4.72277 4.78929,
-	-5.70187 3.61329,
-	-6.38432 2.25005,
+<Contour name="red$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
 	"/>
-<Contour name="d01cfa05" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-6.77887 0.0108626,
-	-6.60256 -1.49834,
-	-6.08278 -2.92911,
-	-5.24656 -4.20706,
-	-4.13735 -5.26578,
-	-2.81281 -6.05025,
-	-1.34179 -6.51968,
-	0.199268 -6.64967,
-	1.73025 -6.43348,
-	3.17159 -5.88234,
-	4.44837 -5.02489,
-	5.49423 -3.9057,
-	6.25481 -2.58294,
-	6.69057 -1.12537,
-	6.77887 0.39126,
-	6.51512 1.88812,
-	5.91303 3.2874,
-	5.00388 4.51639,
-	3.83494 5.51119,
-	2.46697 6.22011,
-	0.971054 6.60629,
-	-0.575043 6.64967,
-	-2.09096 6.34799,
-	-3.49792 5.71693,
-	-4.72277 4.78929,
-	-5.70187 3.61329,
-	-6.38432 2.25005,
-	"/>
-<Contour name="d01cfa06" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-6 2,
-	-6 -2,
-	-2 -6,
-	2 -6,
-	6 -2,
-	6 2,
-	2 6,
-	-2 6,
-	"/>
-<Contour name="d01cfa07" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-6 2,
-	-6 -2,
-	-2 -6,
-	2 -6,
-	6 -2,
-	6 2,
-	2 6,
-	-2 6,
-	"/>
-<Contour name="d01cfa08" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
- points="-6 2,
-	-6 -2,
-	-2 -6,
-	2 -6,
-	6 -2,
-	6 2,
-	2 6,
-	-2 6,
-	"/>
-<Contour name="d09SER" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-9"
+<Contour name="ax36" comment="DDH_traced_24july2018" closed="true" border="0.502 1.000 0.502" fill="0.502 1.000 0.502" mode="11"
  points="-12 4,
 	-12 -4,
 	-4 -4,
@@ -363,7 +334,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="d09zlen" comment="22dec2016kh redo" closed="true" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
+<Contour name="cyan$+" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
  points="0 12,
 	4 8,
 	-12 -8,

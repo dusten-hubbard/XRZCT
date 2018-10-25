@@ -7110,4 +7110,99 @@
 	"/>
 </Transform>
 
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax17_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="3.39528 3.00866,
+	3.39528 2.99872,
+	3.40522 2.99872,
+	3.40522 2.98878,
+	3.41516 2.98878,
+	3.41516 2.99872,
+	3.42511 2.99872,
+	3.42511 3.00866,
+	3.41516 3.00866,
+	3.41516 3.01861,
+	3.40522 3.01861,
+	3.40522 3.00866,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax18_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="4.77774 1.70762,
+	4.77774 1.69793,
+	4.78742 1.69793,
+	4.78742 1.68824,
+	4.79711 1.68824,
+	4.79711 1.69793,
+	4.8068 1.69793,
+	4.8068 1.70762,
+	4.79711 1.70762,
+	4.79711 1.7173,
+	4.78742 1.7173,
+	4.78742 1.70762,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax20_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="3.84231 4.64883,
+	3.84231 4.63504,
+	3.8561 4.63504,
+	3.8561 4.62125,
+	3.86989 4.62125,
+	3.86989 4.63504,
+	3.88368 4.63504,
+	3.88368 4.64883,
+	3.86989 4.64883,
+	3.86989 4.66261,
+	3.8561 4.66261,
+	3.8561 4.64883,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax21_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="0.608516 4.26007,
+	0.608516 4.23902,
+	0.629566 4.23902,
+	0.629566 4.21797,
+	0.650616 4.21797,
+	0.650616 4.23902,
+	0.671666 4.23902,
+	0.671666 4.26007,
+	0.650616 4.26007,
+	0.650616 4.28112,
+	0.629566 4.28112,
+	0.629566 4.26007,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax29_DDH" comment="DDH_traced_15oct2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="7.61377 3.89417,
+	7.61377 3.8772,
+	7.63074 3.8772,
+	7.63074 3.86023,
+	7.64771 3.86023,
+	7.64771 3.8772,
+	7.66469 3.8772,
+	7.66469 3.89417,
+	7.64771 3.89417,
+	7.64771 3.91114,
+	7.63074 3.91114,
+	7.63074 3.89417,
+	"/>
+</Transform>
+
 </Section>

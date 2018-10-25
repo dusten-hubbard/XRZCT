@@ -2800,4 +2800,99 @@
 	"/>
 </Transform>
 
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax17_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="2.59949 3.38403,
+	2.59949 3.37043,
+	2.61309 3.37043,
+	2.61309 3.35683,
+	2.62669 3.35683,
+	2.62669 3.37043,
+	2.64028 3.37043,
+	2.64028 3.38403,
+	2.62669 3.38403,
+	2.62669 3.39762,
+	2.61309 3.39762,
+	2.61309 3.38403,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax18_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="-0.134612 4.88282,
+	-0.134612 4.87228,
+	-0.124063 4.87228,
+	-0.124063 4.86173,
+	-0.113514 4.86173,
+	-0.113514 4.87228,
+	-0.102966 4.87228,
+	-0.102966 4.88282,
+	-0.113514 4.88282,
+	-0.113514 4.89337,
+	-0.124063 4.89337,
+	-0.124063 4.88282,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax20_DDH" comment="DDH_traced_24july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="7.17886 1.02383,
+	7.17886 1.01067,
+	7.19203 1.01067,
+	7.19203 0.997497,
+	7.2052 0.997497,
+	7.2052 1.01067,
+	7.21837 1.01067,
+	7.21837 1.02383,
+	7.2052 1.02383,
+	7.2052 1.037,
+	7.19203 1.037,
+	7.19203 1.02383,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax25_DDH" comment="DDH_traced_26july2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.501961" mode="-9"
+ points="10.9424 0.433138,
+	10.9424 0.415118,
+	10.9605 0.415118,
+	10.9605 0.397098,
+	10.9785 0.397098,
+	10.9785 0.415118,
+	10.9965 0.415118,
+	10.9965 0.433138,
+	10.9785 0.433138,
+	10.9785 0.451158,
+	10.9605 0.451158,
+	10.9605 0.433138,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax48_DDH" comment="DDH_traced_24sep2018" hidden="false" closed="true" simplified="false" border="0 1 0" fill="1 0 0.502" mode="-9"
+ points="2.29566 5.55395,
+	2.29566 5.54107,
+	2.30854 5.54107,
+	2.30854 5.52819,
+	2.32142 5.52819,
+	2.32142 5.54107,
+	2.3343 5.54107,
+	2.3343 5.55395,
+	2.32142 5.55395,
+	2.32142 5.56683,
+	2.30854 5.56683,
+	2.30854 5.55395,
+	"/>
+</Transform>
+
 </Section>
