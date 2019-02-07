@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="119" viewport="2.56756 3.43181 0.00225534"
-	units=""
+<Series index="151" viewport="-2.56659 0.884385 0.00257487"
+	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
 	warnSaveSection="true"
-	beepDeleting="false"
+	beepDeleting="true"
 	beepPaging="true"
 	hideTraces="false"
 	unhideTraces="false"
 	hideDomains="false"
-	unhideDomains="false"
+	unhideDomains="true"
 	useAbsolutePaths="false"
 	defaultThickness="0.05"
 	zMidSection="false"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 0.000 0.000"
+	defaultBorder="0.000 0.000 0.502"
 	defaultFill="0.000 1.000 0.000"
 	defaultMode="9"
-	defaultName="d13c54ax32"
-	defaultComment=""
+	defaultName="d10zlen_"
+	defaultComment="24feb2017KH"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -42,15 +42,15 @@
 	listDomainMidpoint="false"
 	listTraceComment="false"
 	listTraceLength="true"
-	listTraceArea="true"
+	listTraceArea="false"
 	listTraceCentroid="false"
 	listTraceExtent="false"
 	listTraceZ="false"
 	listTraceThickness="true"
 	listObjectRange="true"
 	listObjectCount="true"
-	listObjectSurfarea="true"
-	listObjectFlatarea="true"
+	listObjectSurfarea="false"
+	listObjectFlatarea="false"
 	listObjectVolume="false"
 	listZTraceNote="false"
 	listZTraceRange="true"
@@ -91,8 +91,8 @@
 		"
 	offset3D="0 0 0"
 	type3Dobject="1"
-	first3Dsection="0"
-	last3Dsection="210"
+	first3Dsection="1"
+	last3Dsection="204"
 	max3Dconnection="-1"
 	upper3Dfaces="true"
 	lower3Dfaces="true"
@@ -114,12 +114,12 @@
 	areaStopPercent="999"
 	areaStopSize="0"
 	ContourMaskWidth="0"
-	smoothingLength="7"
+	smoothingLength="10"
 	mvmtIncrement="0.022 1 1 1.01 1.01 0.02 0.02 0.001 0.001"
 	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="d13c54ax32" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02c01" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -129,7 +129,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="Total X-sectioned length" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d02c02" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-2 1,
 	-5 0,
 	-2 -1,
@@ -147,12 +147,12 @@
 	-1 2,
 	-4 4,
 	"/>
-<Contour name="d01c03" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d02c03" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-6 -6,
 	6 -6,
 	0 5,
 	"/>
-<Contour name="d01c04" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d02c04" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-7 7,
 	-2 0,
 	-7 -7,
@@ -166,7 +166,7 @@
 	0 1,
 	-4 7,
 	"/>
-<Contour name="d01c05" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d02c05" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="8 8,
 	8 -8,
 	-8 -8,
@@ -178,13 +178,13 @@
 	-10 10,
 	-8 8,
 	"/>
-<Contour name="d08ax09ssvda" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+<Contour name="d02c06" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="0 7,
 	-7 0,
 	0 -7,
 	7 0,
 	"/>
-<Contour name="d01c07" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d02c07" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -194,7 +194,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="Scale_Cube$" closed="true" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="9"
+<Contour name="d02c08" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="6 -6,
 	0 -6,
 	0 -3,
@@ -208,7 +208,7 @@
 	-12 -6,
 	-3 -12,
 	"/>
-<Contour name="Help$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+<Contour name="d10p05dia" comment="nonsynaptic KH added head dia 1oct2016" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="-12 4,
 	-12 -4,
 	-4 -4,
@@ -222,7 +222,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="Surface Pro  test" closed="true" border="1.000 1.000 0.000" fill="0.000 0.000 1.000" mode="11"
+<Contour name="d02c10" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
  points="0 12,
 	4 8,
 	-12 -8,
@@ -231,7 +231,7 @@
 	12 0,
 	12 12,
 	"/>
-<Contour name="calibrated length y+" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.251" mode="-15"
+<Contour name="d02cfa01" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -241,7 +241,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="axon membrane length" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa02" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -251,7 +251,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="d01cfa03" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa03" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -261,7 +261,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="d01cfa04" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa04" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6.77887 0.0108626,
 	-6.60256 -1.49834,
 	-6.08278 -2.92911,
@@ -290,7 +290,7 @@
 	-5.70187 3.61329,
 	-6.38432 2.25005,
 	"/>
-<Contour name="d01cfa05" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa05" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6.77887 0.0108626,
 	-6.60256 -1.49834,
 	-6.08278 -2.92911,
@@ -319,7 +319,7 @@
 	-5.70187 3.61329,
 	-6.38432 2.25005,
 	"/>
-<Contour name="d01cfa06" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa06" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -329,7 +329,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="d01cfa07" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa07" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -339,7 +339,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="d01cfa08" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="d02cfa08" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
@@ -349,7 +349,7 @@
 	2 6,
 	-2 6,
 	"/>
-<Contour name="d09SER" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-9"
+<Contour name="d08" comment="added for 3D in Figure 10FEB2017KH" closed="true" border="1.000 1.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="-12 4,
 	-12 -4,
 	-4 -4,
@@ -363,7 +363,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="d09zlen" comment="22dec2016kh redo" closed="true" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
+<Contour name="d10zlen_" comment="24feb2017KH" closed="true" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="0 12,
 	4 8,
 	-12 -8,
@@ -2311,86 +2311,6 @@
 	7.13552 2.04057 99,
 	7.3367 1.78043 54,
 	"/>
-<ZContour name="d05z_1mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="5.85099 4.48656 116,
-	5.78012 4.65031 111,
-	5.31821 5.04623 102,
-	4.89296 5.47392 92,
-	4.33084 5.71343 79,
-	4.15732 6.03359 71,
-	4.18909 6.29754 61,
-	4.16954 6.68613 54,
-	4.26241 7.08939 40,
-	4.23797 7.54886 28,
-	4.21842 7.82747 18,
-	4.12311 8.1574 11,
-	"/>
-<ZContour name="d05z_2mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="4.11577 8.15985 11,
-	4.18909 8.14518 12,
-	4.22331 7.84946 17,
-	4.23797 7.52442 28,
-	4.27708 7.15538 37,
-	4.25264 6.76678 49,
-	4.25997 6.39286 59,
-	4.21598 5.92361 74,
-	4.43349 5.67922 81,
-	4.88318 5.50325 92,
-	5.41108 5.01934 103,
-	5.85099 4.48656 116,
-	"/>
-<ZContour name="d05z_3mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="5.829 4.4719 116,
-	5.90232 4.49633 115,
-	5.62859 4.89715 106,
-	5.12758 5.21486 97,
-	4.60946 5.62545 84,
-	4.18665 5.94805 74,
-	4.20131 6.22667 63,
-	4.16954 6.65436 54,
-	4.25752 7.08939 40,
-	4.24775 7.53664 28,
-	4.22087 7.82991 18,
-	4.11577 8.15985 11,
-	"/>
-<ZContour name="d10z_1mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="7.37265 1.83609 132,
-	7.51359 2.00586 125,
-	7.73461 2.2525 113,
-	8.16384 2.42548 104,
-	8.00047 2.70415 92,
-	7.45914 2.82908 70,
-	7.12921 3.19104 56,
-	6.87295 3.53698 46,
-	6.65193 3.79964 36,
-	6.34443 4.20965 26,
-	6.14263 4.55879 4,
-	"/>
-<ZContour name="d10z_2mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="6.15224 4.55559 4,
-	6.27396 4.24809 22,
-	6.58787 3.94058 32,
-	6.87936 3.57862 45,
-	7.07796 3.28713 54,
-	7.19968 2.97642 63,
-	7.6289 2.83869 79,
-	7.99727 2.42227 109,
-	7.66094 2.21407 116,
-	7.37265 1.83609 132,
-	"/>
-<ZContour name="d10z_3mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
- points="7.35984 1.8425 132,
-	7.52 2.01226 125,
-	7.71859 2.2461 113,
-	8.13821 2.42548 104,
-	7.99086 2.70095 92,
-	7.43671 2.80345 69,
-	7.14202 3.11096 58,
-	6.90819 3.47932 47,
-	6.64553 3.79644 36,
-	6.33802 4.20644 26,
-	6.15224 4.55559 4,
-	"/>
 <ZContour name="d01zlen_down" comment="17sep2016KH" closed="false" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
  points="6.79113 2.78342 208,
 	6.79113 2.78626 203,
@@ -2719,14 +2639,6 @@
  points="7.33222 1.80275 133,
 	6.95961 1.68024 145,
 	"/>
-<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
- points="5.87481 4.43224 116,
-	5.74832 4.7436 108,
-	"/>
-<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
- points="5.75805 4.77604 108,
-	5.87481 4.43224 116,
-	"/>
 <ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="4.70718 5.52202 88,
 	5.18396 5.14579 100,
@@ -2776,17 +2688,6 @@
 <ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="4.88237 3.31584 156,
 	5.34148 3.18515 169,
-	"/>
-<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
- points="5.67061 4.81792 107,
-	5.13884 5.19705 98,
-	4.60215 5.57619 85,
-	"/>
-<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
- points="4.60707 5.58603 85,
-	4.67108 5.55649 87,
-	5.0896 5.26599 96,
-	5.67061 4.81792 107,
 	"/>
 <ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="5.90379 5.5982 148,
@@ -2840,5 +2741,41 @@
 <ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
  points="6.60415 1.09826 174,
 	6.9219 0.943195 182,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.77778 4.74093 108,
+	5.59675 4.89662 106,
+	5.12245 5.19713 98,
+	4.6047 5.58091 85,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.61556 5.58453 85,
+	4.73142 5.49764 89,
+	5.21658 5.1573 100,
+	5.77778 4.74093 108,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.87553 4.46576 116,
+	5.77778 4.70834 109,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.79588 4.72645 109,
+	5.87553 4.46576 116,
+	"/>
+<ZContour name="d10zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.14275 3.01029 60,
+	6.91465 3.4701 47,
+	"/>
+<ZContour name="d10zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.91827 3.46648 47,
+	7.14275 3.01029 60,
+	"/>
+<ZContour name="d08p34 3DEM head dia " comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.37582 5.88461 195,
+	4.95313 5.75302 195,
+	"/>
+<ZContour name="d08p34 3DEM head dia " comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.39736 5.83284 196,
+	4.96013 5.75064 195,
 	"/>
 </Series>
